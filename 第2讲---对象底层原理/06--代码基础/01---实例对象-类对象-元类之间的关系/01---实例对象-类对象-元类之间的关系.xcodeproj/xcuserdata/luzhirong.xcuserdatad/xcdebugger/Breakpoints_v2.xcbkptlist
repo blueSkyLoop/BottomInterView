@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "01---&#x5b9e;&#x4f8b;&#x5bf9;&#x8c61;-&#x7c7b;&#x5bf9;&#x8c61;-&#x5143;&#x7c7b;&#x4e4b;&#x95f4;&#x7684;&#x5173;&#x7cfb;/ViewController.m"
+            timestampString = "572519870.632581"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "01---&#x5b9e;&#x4f8b;&#x5bf9;&#x8c61;-&#x7c7b;&#x5bf9;&#x8c61;-&#x5143;&#x7c7b;&#x4e4b;&#x95f4;&#x7684;&#x5173;&#x7cfb;/ViewController.m"
+            timestampString = "572519979.049338"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
