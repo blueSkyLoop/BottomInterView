@@ -46,7 +46,6 @@
 
 - (void)lgPrintClassRelationshipWithObject:(id)objc{
     NSLog(@"*********************************************");
-
     NSLog(@"\n实例对象地址 - %p - %@",objc,objc); // 实例对象 LGMan
     NSLog(@"\n类对象地址 - %p - %@",[objc class],[objc class]); // 类对象 LGMan
     NSLog(@"\n父类对象地址 - %p - %@",[objc superclass],[objc superclass]); // 父类 LGPerson
